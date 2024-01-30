@@ -1,7 +1,5 @@
 package org.parkingSystem;
 
-import org.parkingSystem.models.*;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

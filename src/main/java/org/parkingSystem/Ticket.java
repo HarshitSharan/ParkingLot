@@ -1,6 +1,5 @@
-package org.parkingSystem.models;
+package org.parkingSystem;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

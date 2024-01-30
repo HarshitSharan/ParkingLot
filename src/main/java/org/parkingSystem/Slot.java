@@ -1,4 +1,4 @@
-package org.parkingSystem.models;
+package org.parkingSystem;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package org.parkingSystem.models;
+package org.parkingSystem;
 
 public enum VehicleType {
     CAR, BIKE, TRUCK;
